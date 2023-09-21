@@ -1,1 +1,5 @@
-Projeto bem simples, apenas baixe-o e jogue na sua área de trabalho para jogar!
+Um projeto em CSS e Javascript do jogo do Mario ao estilo do jogo do dinossauro da Google quando você está sem internet.
+
+Para jogar baixe o arquivo em sua área de trabalho e execute o arquivo index.html.
+
+Ao iniciar o jogo utilize as setas do teclado para pular os obstáculos e não perder, para reiniciar o jogo atualize sua página.
